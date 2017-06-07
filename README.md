@@ -17,7 +17,8 @@ The main purpose of this repository is for issue reporting. If you have used the
 - Text layers 
 - Bitmap layers 
 - Smart objects 
-- Masks (Vector Clipping Masks) 
+- Masks
+    - Vector clipping masks
 - Layer effects 
     - Fill (Color fill, Stroke, Linear Gradients) 
     - Border 
