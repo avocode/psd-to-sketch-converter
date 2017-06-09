@@ -18,6 +18,8 @@ The main purpose of this repository is for issue reporting. If you have used the
 - Bitmap layers
 - Smart objects
 - Linear gradients
+- Adjustment layers
+    - Color fill
 - Masks
     - Vector clipping masks
 Layer styles
@@ -35,8 +37,6 @@ All converted Sketch designs can be opened only in Sketch app [Version 43](https
 - Text layers
     - Line height
     - Text decorations
-- Adjustment layers
-    - Color fill
 - Masks
     - Bitmap clipping masks
     - Layer masks
