@@ -49,3 +49,16 @@ All converted Sketch designs can be opened only in Sketch app [Version 43](https
 
 - Proper rounding 
 - Convert adjustment layers to masks with effect
+
+## Changelog
+
+### v0.2.0 (June 12, 2017)
+New features
+- Text layers with applied scale and proper width
+- Support color fill adjustment layers
+
+Fixes
+- Fixed several issues which lead to invalid Sketch document
+
+### v0.1.0 (June 8, 2017)
+- Initial Beta release
