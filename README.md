@@ -54,7 +54,7 @@ All converted Sketch designs can be opened only in Sketch app [Version 43](https
 
 ## Changelog
 
-### v0.2.0 (June 12, 2017)
+### v0.2.0 (June 15, 2017)
 New features
 - Text layers with applied scale and proper width
 - Support color fill adjustment layers
