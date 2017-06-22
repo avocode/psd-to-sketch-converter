@@ -32,6 +32,12 @@ Layer styles
 
 All converted Sketch designs can be opened only in Sketch app [Version 43](https://www.sketchapp.com/updates/#version-43) and later. In order to view the design correctly, make sure you have installed all of the fonts from the original PSD file.
 
+## Known issues
+
+- Sometimes boolean operations on shapes are not correct
+- Color overlay is not working
+- Text line height is still broken
+
 ## Features in development
 
 - Text layers
@@ -54,7 +60,18 @@ All converted Sketch designs can be opened only in Sketch app [Version 43](https
 
 ## Changelog
 
+### v0.4.0 (June 22, 2017)
+
+- added text decorations
+- added support for fill opacity
+- set artboard background color
+
+### v0.3.0 (June 19, 2017)
+
+- support for bitmap masks on layers
+
 ### v0.2.0 (June 15, 2017)
+
 New features
 - Text layers with applied scale and proper width
 - Support color fill adjustment layers
