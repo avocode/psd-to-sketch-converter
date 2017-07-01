@@ -34,7 +34,6 @@ All converted Sketch designs can be opened only in Sketch app [Version 43](https
 
 ## Known issues
 
-- Sometimes boolean operations on shapes are not correct
 - Color overlay is not working
 - Text line height is still broken
 
@@ -59,6 +58,16 @@ All converted Sketch designs can be opened only in Sketch app [Version 43](https
 - Convert adjustment layers to masks with effect
 
 ## Changelog
+
+### v0.5.0 (June 29, 2017)
+
+New features
+- support Guides (both from layers and Artboards)
+- support for group layer bitmap masks
+
+Fixes
+- showing layers outside Artboards
+- fixed boolean operations on shape layers`
 
 ### v0.4.0 (June 22, 2017)
 
